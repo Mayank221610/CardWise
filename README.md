@@ -1,4 +1,4 @@
-#CardWise-Credit Approval Predictor
+# CardWise-Credit Approval Predictor
 
 This project is a machine learning-based web application that predicts the likelihood of credit card approval for a customer based on their personal and financial details. It leverages a Random Forest Classifier trained on historical credit and application records.
 
